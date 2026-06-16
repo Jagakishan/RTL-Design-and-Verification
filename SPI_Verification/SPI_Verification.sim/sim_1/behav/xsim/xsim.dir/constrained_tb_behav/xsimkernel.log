@@ -1,0 +1,7 @@
+Running: xsim.dir/constrained_tb_behav/xsimk.exe -simmode gui -wdb constrained_tb_behav.wdb -simrunnum 0 -socket 60082
+Design successfully loaded
+Design Loading Memory Usage: 28988 KB (Peak: 28988 KB)
+Design Loading CPU Usage: 999 ms
+Simulation completed
+Simulation Memory Usage: 34160 KB (Peak: 34160 KB)
+Simulation CPU Usage: 1124 ms

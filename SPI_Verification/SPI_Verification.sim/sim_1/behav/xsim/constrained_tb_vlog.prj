@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../SPI_Verification.srcs/sim_1/new" \
+"../../../../SPI_Verification.srcs/sources_1/new/master.sv" \
+"../../../../SPI_Verification.srcs/sources_1/new/slave.sv" \
+"../../../../SPI_Verification.srcs/sources_1/new/top.sv" \
+"../../../../SPI_Verification.srcs/sim_1/new/constrained_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

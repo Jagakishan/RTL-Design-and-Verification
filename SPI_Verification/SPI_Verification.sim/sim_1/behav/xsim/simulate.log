@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Total: 256	Match: 256	Fail: 0
+$finish called at time : 781310 ns : File "C:/Users/Jagakishan/Vivado/SystemVerilog/SPI_Verification/SPI_Verification.srcs/sim_1/new/constrained_tb.sv" Line 63
