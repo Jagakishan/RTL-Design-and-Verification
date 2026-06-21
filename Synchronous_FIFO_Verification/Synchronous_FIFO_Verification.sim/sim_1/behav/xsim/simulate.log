@@ -1,0 +1,30 @@
+Time resolution is 1 ps
+Error: EMPTY FLAG ERROR
+Time: 30 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 230 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 330 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 430 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 530 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 630 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 730 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 850 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+Error: EMPTY FLAG ERROR
+Time: 950 ns  Iteration: 0  Process: /$unit_fifo_sv_1410282491/scoreboard::main  Scope: $unit_fifo_sv_1410282491.scoreboard::main  File: C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/scoreboard.sv Line: 80
+
+SCOREBOARD RESULT & COVERAGE
+TOTAL ITERATIONS: 1000
+TOTAL WRITES: 586
+TOTAL READS: 556
+SIMULTANEOUS READ AND WRITE: 307
+OVERFLOW CASES: 366
+UNDERFLOW CASES: 9
+RESET CASES: 100
+SUCCESS:FAILURE :: 556:0
+$finish called at time : 101930 ns : File "C:/Users/Jagakishan/Vivado/SystemVerilog/Synchronous_FIFO_Verification/Synchronous_FIFO_Verification.srcs/sim_1/new/constrained_tb.sv" Line 58

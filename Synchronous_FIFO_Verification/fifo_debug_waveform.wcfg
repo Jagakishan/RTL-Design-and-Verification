@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="constrained_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="\$unit_fifo_sv_1410282491 " />
+            <top_module name="constrained_tb" />
+            <top_module name="glbl" />
+            <top_module name="std" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="20.270001 us"></ZoomEndTime>
+      <Cursor1Time time="20.270000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="205"></NameColumnWidth>
+      <ValueColumnWidth column_width="230"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/constrained_tb/intface/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/intface/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/intface/wr" type="logic">
+      <obj_property name="ElementShortName">wr</obj_property>
+      <obj_property name="ObjectShortName">wr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/intface/write_data" type="array">
+      <obj_property name="ElementShortName">write_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">write_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/intface/rd" type="logic">
+      <obj_property name="ElementShortName">rd</obj_property>
+      <obj_property name="ObjectShortName">rd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/intface/read_data" type="array">
+      <obj_property name="ElementShortName">read_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">read_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/intface/full" type="logic">
+      <obj_property name="ElementShortName">full</obj_property>
+      <obj_property name="ObjectShortName">full</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/intface/empty" type="logic">
+      <obj_property name="ElementShortName">empty</obj_property>
+      <obj_property name="ObjectShortName">empty</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/dut/buffer" type="array">
+      <obj_property name="ElementShortName">buffer[7:0][7:0]</obj_property>
+      <obj_property name="ObjectShortName">buffer[7:0][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/dut/wr_pointer" type="array">
+      <obj_property name="ElementShortName">wr_pointer[3:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_pointer[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/constrained_tb/dut/rd_pointer" type="array">
+      <obj_property name="ElementShortName">rd_pointer[3:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_pointer[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>
