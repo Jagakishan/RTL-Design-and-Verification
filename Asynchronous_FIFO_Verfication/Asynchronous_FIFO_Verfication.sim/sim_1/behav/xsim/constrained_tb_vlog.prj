@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../Asynchronous_FIFO_Verfication.srcs/sim_1/new" \
+"../../../../Asynchronous_FIFO_Verfication.srcs/sources_1/new/fifo.sv" \
+"../../../../Asynchronous_FIFO_Verfication.srcs/sim_1/new/constrained_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
